@@ -2695,7 +2695,7 @@ msgstr "Importar dirección de Bitcoin o llaves privadas"
 
 #: electrum/gui/kivy/main_window.py:1342
 msgid "Import Channel Backup?"
-msgstr "\n"
+msgstr "Import Channel Backup?"
 "¿Importar copia de seguridad del canal?"
 
 #: electrum/gui/qt/main_window.py:682 electrum/gui/qt/main_window.py:2967
