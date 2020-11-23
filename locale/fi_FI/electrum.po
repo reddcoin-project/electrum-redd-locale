@@ -5,15 +5,15 @@ msgstr ""
 "POT-Creation-Date: 2020-10-30 16:49+1100\n"
 "PO-Revision-Date: 2020-11-23 01:54\n"
 "Last-Translator: \n"
-"Language-Team: Thai\n"
-"Language: th_TH\n"
+"Language-Team: Finnish\n"
+"Language: fi_FI\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: electrum-redd\n"
 "X-Crowdin-Project-ID: 426798\n"
-"X-Crowdin-Language: th\n"
+"X-Crowdin-Language: fi\n"
 "X-Crowdin-File: /electrum-client/messages.pot\n"
 "X-Crowdin-File-ID: 4\n"
 
@@ -27,7 +27,7 @@ msgstr ""
 
 #: electrum_redd/gui/qt/history_list.py:173
 msgid " confirmation"
-msgstr "การยืนยัน"
+msgstr ""
 
 #: electrum_redd/gui/kivy/uix/screens.py:203
 msgid " is not a valid Lightning invoice: "
@@ -35,38 +35,38 @@ msgstr ""
 
 #: electrum_redd/gui/qt/main_window.py:752
 msgid "&About"
-msgstr "About"
+msgstr ""
 
 #: electrum_redd/gui/qt/main_window.py:220
 #: electrum_redd/gui/qt/main_window.py:685
 msgid "&Addresses"
-msgstr "1Ph4yWX6g7pJk6pgf9fFnQ7fDG8ioCFrLU"
+msgstr ""
 
 #: electrum_redd/gui/qt/main_window.py:753
 msgid "&Check for updates"
-msgstr "&ตรวจสอบสำหรับการอัพเดต"
+msgstr ""
 
 #: electrum_redd/gui/qt/main_window.py:756
 msgid "&Documentation"
-msgstr "Ion"
+msgstr ""
 
 #: electrum_redd/gui/qt/main_window.py:759
 msgid "&Donate to server"
-msgstr "Dfu"
+msgstr ""
 
 #: electrum_redd/gui/qt/main_window.py:738
 msgid "&Encrypt/decrypt message"
-msgstr "Fot"
+msgstr ""
 
 #: electrum_redd/gui/qt/main_window.py:681
 #: electrum_redd/gui/qt/main_window.py:689
 #: electrum_redd/gui/qt/main_window.py:694
 msgid "&Export"
-msgstr "Tam"
+msgstr ""
 
 #: electrum_redd/gui/qt/main_window.py:664
 msgid "&File"
-msgstr "Fil"
+msgstr ""
 
 #: electrum_redd/gui/qt/main_window.py:686
 #: electrum_redd/gui/qt/main_window.py:691
@@ -75,23 +75,23 @@ msgstr ""
 
 #: electrum_redd/gui/qt/main_window.py:747
 msgid "&From QR code"
-msgstr "Qr"
+msgstr ""
 
 #: electrum_redd/gui/qt/main_window.py:744
 msgid "&From file"
-msgstr "From fil"
+msgstr ""
 
 #: electrum_redd/gui/qt/main_window.py:745
 msgid "&From text"
-msgstr "F. T"
+msgstr ""
 
 #: electrum_redd/gui/qt/main_window.py:746
 msgid "&From the blockchain"
-msgstr "F. Ba"
+msgstr ""
 
 #: electrum_redd/gui/qt/main_window.py:751
 msgid "&Help"
-msgstr "Sh"
+msgstr ""
 
 #: electrum_redd/gui/qt/main_window.py:690
 msgid "&History"
@@ -100,7 +100,7 @@ msgstr ""
 #: electrum_redd/gui/qt/main_window.py:680
 #: electrum_redd/gui/qt/main_window.py:688
 msgid "&Import"
-msgstr "Im"
+msgstr ""
 
 #: electrum_redd/gui/qt/main_window.py:674
 msgid "&Information"
@@ -108,7 +108,7 @@ msgstr ""
 
 #: electrum_redd/gui/qt/main_window.py:687
 msgid "&Labels"
-msgstr "La"
+msgstr ""
 
 #: electrum_redd/gui/qt/main_window.py:733
 msgid "&Lightning Network"
@@ -116,11 +116,11 @@ msgstr ""
 
 #: electrum_redd/gui/qt/main_window.py:743
 msgid "&Load transaction"
-msgstr "Lo"
+msgstr ""
 
 #: electrum_redd/gui/qt/main_window.py:732
 msgid "&Network"
-msgstr "Net"
+msgstr ""
 
 #: electrum_redd/gui/qt/main_window.py:696
 msgid "&New"
@@ -128,23 +128,23 @@ msgstr ""
 
 #: electrum_redd/gui/qt/main_window.py:667
 msgid "&New/Restore"
-msgstr "Rest"
+msgstr ""
 
 #: electrum_redd/gui/qt/main_window.py:754
 msgid "&Official website"
-msgstr "Ww"
+msgstr ""
 
 #: electrum_redd/gui/qt/main_window.py:666
 msgid "&Open"
-msgstr "&เปิด"
+msgstr ""
 
 #: electrum_redd/gui/qt/main_window.py:676
 msgid "&Password"
-msgstr "Snu all"
+msgstr ""
 
 #: electrum_redd/gui/qt/main_window.py:741
 msgid "&Pay to many"
-msgstr "Pay"
+msgstr ""
 
 #: electrum_redd/gui/qt/main_window.py:693
 msgid "&Plot"
@@ -152,7 +152,7 @@ msgstr ""
 
 #: electrum_redd/gui/qt/main_window.py:735
 msgid "&Plugins"
-msgstr "Piu"
+msgstr ""
 
 #: electrum_redd/gui/qt/main_window.py:678
 msgid "&Private keys"
@@ -335,11 +335,11 @@ msgstr ""
 
 #: electrum_redd/gui/kivy/main.kv:117
 msgid "Address copied to clipboard"
-msgstr "คัดลอกเนื้อเพลงไปยังคลิปบอร์ด"
+msgstr ""
 
 #: electrum_redd/gui/qt/utxo_list.py:119 electrum_redd/gui/qt/utxo_list.py:201
 msgid "Address is frozen"
-msgstr "Adresa e blocată"
+msgstr ""
 
 #: electrum_redd/gui/qt/main_window.py:2506 electrum_redd/wallet.py:529
 #: electrum_redd/wallet.py:1830 electrum_redd/plugins/hw_wallet/plugin.py:129
@@ -654,7 +654,7 @@ msgstr ""
 #: electrum_redd/gui/kivy/uix/ui_screens/network.kv:52
 #: electrum_redd/gui/qt/network_dialog.py:290
 msgid "Blockchain"
-msgstr "Address"
+msgstr ""
 
 #: electrum_redd/plugins/coldcard/qt.py:138
 msgid "Bootloader"
@@ -829,7 +829,7 @@ msgstr ""
 
 #: electrum_redd/gui/qt/password_dialog.py:63
 msgid "Change Password"
-msgstr "เปลี่ยนรหัสผ่าน"
+msgstr ""
 
 #: electrum_redd/plugins/safe_t/qt.py:400
 #: electrum_redd/plugins/trezor/qt.py:666
@@ -1134,7 +1134,7 @@ msgstr ""
 
 #: electrum_redd/gui/qt/password_dialog.py:101
 msgid "Confirm Password:"
-msgstr "ยืนยันรหัสผ่าน"
+msgstr ""
 
 #: electrum_redd/gui/kivy/uix/dialogs/installwizard.py:1121
 #: electrum_redd/gui/qt/installwizard.py:490
@@ -1426,7 +1426,7 @@ msgstr ""
 
 #: electrum_redd/gui/qt/password_dialog.py:103
 msgid "Current Password:"
-msgstr "รหัสผ่านปัจจุบัน"
+msgstr ""
 
 #: electrum_redd/gui/qt/fee_slider.py:59
 msgid "Current rate"
@@ -1965,7 +1965,7 @@ msgstr ""
 #: electrum_redd/gui/qt/password_dialog.py:63
 #: electrum_redd/gui/qt/password_dialog.py:298
 msgid "Enter Password"
-msgstr "ป้อนรหัสผ่าน"
+msgstr ""
 
 #: electrum_redd/gui/qt/channels_list.py:317
 msgid "Enter Remote Node ID or connection string or invoice"
@@ -2047,7 +2047,7 @@ msgstr ""
 #: electrum_redd/plugins/digitalbitbox/digitalbitbox.py:161
 #: electrum_redd/plugins/digitalbitbox/digitalbitbox.py:164
 msgid "Enter password:"
-msgstr "ป้อนรหัสผ่าน"
+msgstr ""
 
 #: electrum_redd/gui/qt/main_window.py:2981
 msgid "Enter private keys"
@@ -3444,7 +3444,7 @@ msgstr ""
 
 #: electrum_redd/gui/qt/password_dialog.py:100
 msgid "New Password:"
-msgstr "รหัสผ่านใหม่"
+msgstr ""
 
 #: electrum_redd/gui/qt/contact_list.py:75
 msgid "New contact"
@@ -3886,11 +3886,11 @@ msgstr ""
 #: electrum_redd/gui/qt/confirm_tx_dialog.py:162
 #: electrum_redd/gui/qt/network_dialog.py:228
 msgid "Password"
-msgstr "รหัสผ่าน:"
+msgstr ""
 
 #: electrum_redd/gui/qt/password_dialog.py:151
 msgid "Password Strength"
-msgstr "ความแข็งแรงของรหัสผ่าน"
+msgstr ""
 
 #: electrum_redd/gui/qt/main_window.py:2260
 msgid "Password is disabled, this wallet is not protected"
@@ -3928,7 +3928,7 @@ msgstr ""
 
 #: electrum_redd/gui/qt/password_dialog.py:100
 msgid "Password:"
-msgstr "รหัสผ่าน:"
+msgstr ""
 
 #: electrum_redd/gui/kivy/uix/ui_screens/send.kv:173
 #: electrum_redd/gui/qt/invoice_list.py:166
@@ -4069,7 +4069,7 @@ msgstr ""
 #: electrum_redd/gui/qt/main_window.py:1203
 #: electrum_redd/gui/qt/password_dialog.py:297
 msgid "Please enter your password"
-msgstr "โปรดป้อนรหัสผ่านของคุณ"
+msgstr ""
 
 #: electrum_redd/plugins/cosigner_pool/qt.py:230
 msgid "Please enter your password to decrypt it."
